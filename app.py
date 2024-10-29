@@ -21,7 +21,10 @@ DATA_DIR = "./data"
 INDEX_DIR = "./storage"
 LLM_MODEL_NAME = "gpt-4o-mini"
 
-llm = OpenAI(model = LLM_MODEL_NAME)
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]  
+OpenAI.api_key = os.environ["OPENAI_API_KEY"]
+
+llm = OpenAI(api_key=OPENAI_API_KEY, model = LLM_MODEL_NAME)
 Settings.llm = llm
 
 # to also change the embedding model:
