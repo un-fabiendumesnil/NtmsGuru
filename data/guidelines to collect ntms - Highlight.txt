@@ -1,0 +1,27 @@
+Guidelines for the collection of data on official non-tariff measures
+
+
+Highlight
+
+In recent decades, multilateral and regional trade negotiations and unilateral liberalization have substantially reduced tariff rates. Non-tariff measures (NTMs), however, represent a growing challenge for exporters and policy makers. The ability to gain and to benefit from market access depends increasingly on compliance with trade regulatory measures such as sanitary requirements and goods standards.
+
+UNCTAD has been actively involved in research and activities on issues related to non-tariff measures. In 1994, UNCTAD began to collect and classify the measures. While the UNCTAD Trade Analysis and Information System (TRAINS) remains the most comprehensive database on the measures, it has required substantial improvements to keep up with the increasing complexity of and need for data.
+
+To develop a strategy to reduce the transparency gap, in 2006, UNCTAD established the Group of Eminent Persons on Non-Tariff Barriers, composed of leading economists from international organizations.
+
+A Multi-Agency Support Team (MAST group) provided substantial support. As a result, the Transparency in Trade initiative was launched by UNCTAD, the African Development Bank, the International Trade Centre and the World Bank. UNCTAD leads international efforts to collect data on the measures.
+
+The collection of these data requires the classification of legal documents (regulations, directives, rules and the like) by appropriate predefined codes. These codes are provided in the publication International Classification of Non-Tariff Measures.
+
+The classification of the measures was developed and agreed by several international organizations in the context of a multi-agency initiative led by UNCTAD (MAST group: the Food and Agriculture Organization of the United Nations (FAO), the International Monetary Fund (IMF), the International Trade Centre (ITC), the Organization for Economic Cooperation and Development (OECD), UNCTAD, the United Nations Industrial Development Organization (UNIDO), the World Bank, World Trade Organization (WTO)) and international experts.
+
+The classification is designed to facilitate the collection, analysis and dissemination of data on the measures, with the final objective of increasing transparency and understanding about the subject.
+
+A recurring problem for data collectors, who collect and classify trade-related regulations into non-tariff measures data, is that regulations on the measures are often based on legal and/or technical terms which may render it difficult to unequivocally assign the most appropriate code. For data collectors, some interpretation is often required when classifying the measures described in the legal documents and regulations according to the predefined codes.
+
+The purpose of this manual is to provide guidelines to enable data collectors to harmonize the data collection process and to minimize uncertainty during the process of categorization and classification. In doing so, the manual presents the logic behind the classification of non-tariff measures, and it explains how to choose the most appropriate code.
+
+This manual provides a large set of examples, and it is regularly updated to respond to queries and questions emerging during the data collection exercise. This 2023 version updates the last version prepared in 2021.
+
+This manual has been created with the intention of covering as many cases as possible. However, if uncertainties persist, data collectors are encouraged to submit their questions to ntm@unctad.org, providing also a copy of the legal text and stating the proposed code.
+
