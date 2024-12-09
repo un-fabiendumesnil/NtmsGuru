@@ -1,6 +1,7 @@
 # data folder 
 data/
 storage/
+.notes/
 openaiapikey.txt
 
 # Environments
