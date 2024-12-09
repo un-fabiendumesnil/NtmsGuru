@@ -1,11 +1,11 @@
 # data folder 
-# data/
-# storage/
-# openaiapikey.txt
+data/
+storage/
+openaiapikey.txt
 
 # Environments
-# .env
-# .venv
+.env
+.venv
 env/
 venv/
 ENV/
